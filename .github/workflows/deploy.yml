@@ -3,7 +3,7 @@ name: Deploy Flutter Web to GitHub Pages
 on:
   push:
     branches:
-      - gh-pages
+      - main
   workflow_dispatch:
 
 permissions:
@@ -29,8 +29,12 @@ jobs:
       - name: Build Flutter Web
         run: flutter build web --release --base-href "/my_portfolio/"
 
+      - name: Add .nojekyll
+        run: touch ./build/web/.nojekyll
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./build/web
+          publish_branch: gh-pages
