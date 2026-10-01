@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "499630168180",
+    "firebase_url": "https://harrish-bc0c7-default-rtdb.firebaseio.com",
+    "project_id": "harrish-bc0c7",
+    "storage_bucket": "harrish-bc0c7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499630168180:android:e531513a90a64feb8d5921",
+        "android_client_info": {
+          "package_name": "com.example.my_portfolio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyeeHCvfOJDvQRwWu2IxYlCUpZiMczTQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
