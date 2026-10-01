@@ -1,0 +1,272 @@
+{
+  "exported_at": "2026-10-01T18:01:56.837634Z",
+  "content": [
+    {
+      "section": "tech",
+      "data": {
+        "items": [
+          {
+            "icon": "flutter",
+            "name": "Flutter",
+            "color": "0xFF02569B",
+            "description": "Cross-platform UI toolkit."
+          },
+          {
+            "icon": "nodeJs",
+            "name": "Node.js",
+            "color": "0xFF339933",
+            "description": "JavaScript runtime."
+          },
+          {
+            "icon": "server",
+            "name": "Express.js",
+            "color": "0xFF000000",
+            "description": "Fast web framework."
+          },
+          {
+            "icon": "database",
+            "name": "MongoDB",
+            "color": "0xFF47A248",
+            "description": "NoSQL document database."
+          },
+          {
+            "icon": "fire",
+            "name": "Firebase",
+            "color": "0xFFFFCA28",
+            "description": "Google platform."
+          },
+          {
+            "icon": "bolt",
+            "name": "Supabase",
+            "color": "0xFF3ECF8E",
+            "description": "Open source Firebase."
+          },
+          {
+            "name": "C",
+            "description": "Description here..."
+          },
+          {
+            "name": "C++",
+            "description": "Description here..."
+          },
+          {
+            "name": "Java",
+            "description": "Description here..."
+          },
+          {
+            "name": "python",
+            "description": "Description here..."
+          }
+        ]
+      },
+      "updated_at": "2026-10-01T21:30:23.964+00:00"
+    },
+    {
+      "section": "contact",
+      "data": {
+        "email": "harrishcsbs@gmail.com"
+      },
+      "updated_at": "2026-04-09T11:42:09.973+00:00"
+    },
+    {
+      "section": "about",
+      "data": {
+        "stat1Value": "1+",
+        "stat2Vvalue": "10+"
+      },
+      "updated_at": "2026-04-09T11:37:53.716+00:00"
+    },
+    {
+      "section": "hero",
+      "data": {
+        "profileImage": "https://slwbsiebuoranrtidcxe.supabase.co/storage/v1/object/public/portfolio/general/profile_image.png?t=1789847054409"
+      },
+      "updated_at": "2026-09-20T01:14:14.859+00:00"
+    },
+    {
+      "section": "projects_order",
+      "data": {
+        "order": [
+          "b5a423f9-027f-44c9-8666-51d82708b583",
+          "45e84b46-057a-41c1-8193-6907639eb193",
+          "1eadf7a2-8345-4482-96d0-348302ed7dc6",
+          "cf4314bb-1da0-4b27-9af3-997aa2872d67",
+          "17f68cba-4a75-44f2-a406-29d900621c43",
+          "78037b7a-df85-49e7-9dde-a4b02b771220"
+        ]
+      },
+      "updated_at": "2026-09-29T22:49:27.858+00:00"
+    },
+    {
+      "section": "experience",
+      "data": {
+        "items": [
+          {
+            "id": "exp-1",
+            "type": "work",
+            "role": "Flutter Developer",
+            "company": "Petals Automation",
+            "period": "2024 - PRESENT",
+            "description": "Architecting high-performance enterprise IoT dashboards, BLE hardware communication pipelines, and real-time state synchronizations using Riverpod and Supabase.",
+            "location": "Chennai, India",
+            "isActive": true,
+            "orderIndex": 0
+          },
+          {
+            "id": "exp-2",
+            "type": "work",
+            "role": "Junior Flutter Developer",
+            "company": "Wizinoa Technologies",
+            "period": "2023 - 2024",
+            "description": "Engineered scalable Flutter mobile applications (HRMS & Lokalnnav), integrated third-party REST microservices, push notifications, and shipped to Google Play & App Store.",
+            "location": "Madurai, India",
+            "isActive": true,
+            "orderIndex": 1
+          },
+          {
+            "id": "edu-1",
+            "type": "education",
+            "role": "B.Tech in Computer Science & Business Systems",
+            "company": "Anna University Affiliated College",
+            "period": "2020 - 2024",
+            "description": "Specialized in distributed systems, data structures, enterprise application architectures, and human-computer interaction.",
+            "location": "Tamil Nadu, India",
+            "isActive": true,
+            "orderIndex": 2
+          },
+          {
+            "id": "edu-2",
+            "type": "education",
+            "role": "Higher Secondary (HSC) - Computer Science",
+            "company": "State Board School",
+            "period": "2018 - 2020",
+            "description": "Core foundation in C++, Object Oriented Programming, computational logic, and mathematics.",
+            "location": "Tamil Nadu, India",
+            "isActive": true,
+            "orderIndex": 3
+          }
+        ]
+      },
+      "updated_at": "2026-10-01T23:00:00.000+00:00"
+    }
+  ],
+  "projects": [
+    {
+      "id": "45e84b46-057a-41c1-8193-6907639eb193",
+      "title": "Wizinoa HRMS",
+      "description": "Built an internal Flutter HRMS app for attendance, leave management, and employee engagement, \nincluding daily celebration cards, actively used within the organization. ",
+      "tech_used": [
+        "Flutter"
+      ],
+      "platforms": [
+        "Web"
+      ],
+      "github_url": "",
+      "demo_url": null,
+      "image_url": "https://slwbsiebuoranrtidcxe.supabase.co/storage/v1/object/public/portfolio/projects/45e84b46-057a-41c1-8193-6907639eb193/Screenshot_2025-05-20-21-49-36-103_com.example.hrms_rebuild.jpg",
+      "video_url": null,
+      "play_store_url": "https://play.google.com/store/apps/details?id=com.wizinoa.hrms_rebuild\n",
+      "app_store_url": "",
+      "created_at": "2026-04-09T06:04:30.523496+00:00",
+      "updated_at": "2026-04-09T06:04:30.523496+00:00"
+    },
+    {
+      "id": "1eadf7a2-8345-4482-96d0-348302ed7dc6",
+      "title": "Lokalnnav",
+      "description": "Developed and shipped a role-based Flutter application (User, Vendor, Admin) that shows nearby \nshop openings and enables vendors to manage business listings, live on the Google Play Store.",
+      "tech_used": [
+        "Flutter"
+      ],
+      "platforms": [
+        "Web"
+      ],
+      "github_url": "",
+      "demo_url": null,
+      "image_url": "https://slwbsiebuoranrtidcxe.supabase.co/storage/v1/object/public/portfolio/projects/1eadf7a2-8345-4482-96d0-348302ed7dc6/unnamed.webp",
+      "video_url": null,
+      "play_store_url": "https://play.google.com/store/apps/details?id=com.wizinoa.lokalnav",
+      "app_store_url": "https://apps.apple.com/in/app/lokalnav/id6747063687",
+      "created_at": "2026-04-09T06:34:00.966763+00:00",
+      "updated_at": "2026-04-09T06:34:00.966763+00:00"
+    },
+    {
+      "id": "cf4314bb-1da0-4b27-9af3-997aa2872d67",
+      "title": "Dreams Wed",
+      "description": "Developed a comprehensive wedding service booking application that connects users with essential event vendors such as catering, decoration, and makeup artists in a single platform. The app streamlines the entire event planning process by allowing users to browse services, compare options, view details, and make bookings seamlessly.",
+      "tech_used": [
+        "Flutter"
+      ],
+      "platforms": [
+        "Web"
+      ],
+      "github_url": "",
+      "demo_url": null,
+      "image_url": "https://slwbsiebuoranrtidcxe.supabase.co/storage/v1/object/public/portfolio/projects/cf4314bb-1da0-4b27-9af3-997aa2872d67/1000306204.jpg",
+      "video_url": null,
+      "play_store_url": null,
+      "app_store_url": null,
+      "created_at": "2026-04-09T18:05:31.897145+00:00",
+      "updated_at": "2026-04-09T18:05:31.897145+00:00"
+    },
+    {
+      "id": "17f68cba-4a75-44f2-a406-29d900621c43",
+      "title": "Hospital Appointment booking system ",
+      "description": "Developed a full-stack hospital appointment booking system with a role-based access architecture supporting Super Admin, Admin, Doctor, Staff, HR, and Patient modules. The system enables efficient management of hospital operations including appointment scheduling, patient records, staff coordination, and administrative control.",
+      "tech_used": [
+        "Flutter"
+      ],
+      "platforms": [
+        "Web"
+      ],
+      "github_url": "",
+      "demo_url": null,
+      "image_url": "https://slwbsiebuoranrtidcxe.supabase.co/storage/v1/object/public/portfolio/projects/17f68cba-4a75-44f2-a406-29d900621c43/1000306205.jpg",
+      "video_url": null,
+      "play_store_url": null,
+      "app_store_url": null,
+      "created_at": "2026-04-09T18:08:34.091654+00:00",
+      "updated_at": "2026-04-09T18:08:34.091654+00:00"
+    },
+    {
+      "id": "78037b7a-df85-49e7-9dde-a4b02b771220",
+      "title": "Labbaik",
+      "description": "Developed a food delivery mobile application UI inspired by platforms like Swiggy and Zomato using Flutter. The app allows users to browse restaurants, explore menus, add items to cart, and simulate the ordering flow.\nDesigned multiple screens including home, restaurant listing, menu details, cart, and order summary with a focus on clean UI and smooth navigation. Implemented state management to handle dynamic data such as cart updates and user interactions.",
+      "tech_used": [
+        "Flutter"
+      ],
+      "platforms": [
+        "Web"
+      ],
+      "github_url": "",
+      "demo_url": null,
+      "image_url": "https://slwbsiebuoranrtidcxe.supabase.co/storage/v1/object/public/portfolio/projects/78037b7a-df85-49e7-9dde-a4b02b771220/1000306211.jpg",
+      "video_url": null,
+      "play_store_url": null,
+      "app_store_url": null,
+      "created_at": "2026-04-09T18:12:10.208978+00:00",
+      "updated_at": "2026-04-09T18:12:10.208978+00:00"
+    },
+    {
+      "id": "b5a423f9-027f-44c9-8666-51d82708b583",
+      "title": "Spell - IoT",
+      "description": "IoT Device Management & Monitoring App — Developed a Flutter-based IoT application for real-time device monitoring and management, integrating connected hardware with cloud APIs and real-time communication. Implemented device dashboards, live telemetry, device status monitoring, and role-based access.",
+      "tech_used": [
+        "Flutter",
+        "Dart",
+        "Supabase"
+      ],
+      "platforms": [
+        "iOS",
+        "Android"
+      ],
+      "github_url": "",
+      "demo_url": null,
+      "image_url": "https://slwbsiebuoranrtidcxe.supabase.co/storage/v1/object/public/portfolio/projects/b5a423f9-027f-44c9-8666-51d82708b583/Screenshot_2026-09-29-22-45-56-747_com.petalsautomation.iotcloud.jpg",
+      "video_url": null,
+      "play_store_url": "https://play.google.com/store/apps/details?id=com.petalsautomation.iotcloud&hl=en_IN",
+      "app_store_url": "https://apps.apple.com/in/app/spell-iot/id6757735094",
+      "created_at": "2026-09-29T17:12:36.310066+00:00",
+      "updated_at": "2026-09-29T17:12:36.310066+00:00"
+    }
+  ]
+}
